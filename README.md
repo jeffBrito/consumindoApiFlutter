@@ -1,6 +1,5 @@
 # smartolt
-
-A new Flutter project.
+Consumindo Api com o Flutter
 
 ## Getting Started
 
